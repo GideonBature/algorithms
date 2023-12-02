@@ -1,4 +1,4 @@
-### Discover the World of Algorithms
+# Discover the World of Algorithms
 
 ## Sorting Algorithms
 
