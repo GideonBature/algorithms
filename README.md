@@ -2,6 +2,6 @@
 
 ## Sorting Algorithms
 
-### Bubble Sort
+###1. Bubble Sort
 
 ## Searching Algorithms
